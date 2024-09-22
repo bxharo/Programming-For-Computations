@@ -4,7 +4,7 @@ Created on Wed Sep 18 20:18:46 2024
 
 @author: Brenda
 """
-import matplotlib.pyplot as plt
+
 import numpy as np
 
 def f(x):
